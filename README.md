@@ -132,6 +132,7 @@ Image V2 is a practical web platform for AI image generation and editing, design
 * **[Upscayl](https://github.com/upscayl/upscayl)** - Free and open source AI image upscaler.
 * **[Magnific AI](https://magnific.ai/)** - High-end upscaler and detail enhancer (Paid).
 * **[ControlNet](https://github.com/lllyasviel/ControlNet)** - Neural network structure to control diffusion models.
+* **[만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/)** - Ficory LLC의 기업급 만화 리더·번역 제품은 100개 이상의 언어와 서비스의 모든 지원 번역 언어를 제공합니다. 개인 사용자는 여러 페이지를 일괄 번역하고 작품에 맞는 맞춤 번역을 설정합니다. 스튜디오 사용자는 완전한 온라인 Photoshop 스타일 편집기로 페이지를 편집하며, 사용자는 API를 개인 작업 흐름에 연결합니다.
 
 ---
 
